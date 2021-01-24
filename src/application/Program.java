@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		Account acc = new Account(1001, "Douglas", 0.0);
+		//Account acc = new Account(1001, "Douglas", 0.0);
 		BusinessAccount bacc = new BusinessAccount(1002, "Jenifer", 0.0, 500.0);
 		
 		// UPCASTING
